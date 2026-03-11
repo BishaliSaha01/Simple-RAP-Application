@@ -1,2 +1,2 @@
 # Simple-RAP-Application
-Simple Travel Application on BTP Trail account
+Simple Travel Application on BTP Trial account
